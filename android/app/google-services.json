@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "932910203193",
+    "project_id": "vibecast-99a96",
+    "storage_bucket": "vibecast-99a96.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932910203193:android:6559ad34fc8be28083a8e8",
+        "android_client_info": {
+          "package_name": "com.example.vibe_cast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932910203193-v9mlmu3hhelk8k90b6sr4r65295vireu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vibe_cast",
+            "certificate_hash": "d41e06a3135ec89e5fb7fefbb553292e4b96a950"
+          }
+        },
+        {
+          "client_id": "932910203193-0i9ka7f0vs1oj0lmo75aoab3cabgnqro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXs-7OwMSR8Tliy0_gVOUpKJbiqriCEAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932910203193-0i9ka7f0vs1oj0lmo75aoab3cabgnqro.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "932910203193-ng7ssenotvuja39a60raglorieta6cnk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vibeCast"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
