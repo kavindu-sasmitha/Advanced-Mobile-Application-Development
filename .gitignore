@@ -43,3 +43,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Firebase config files (Kalin credentials hide karanna ekathu karapu kotasa)
+lib/firebase_options.dart
+**/GoogleService-Info.plist
